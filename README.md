@@ -7,11 +7,17 @@ Given the data, I was tasked with crafting a question that could be asked of the
 The question I was led to is the following:
 “What would be the investment strategy of the countries in order promote the products and to grow the segments?”
 
-To answer this in the dashboard, I created 5 visuals:
-\n -Sum of Profit
-\n -Sales and COGS
-\n -Sales by Segment and Country
-\n -Sale Price by Country and Product
-\n -Sales and PPUS by Product
+To answer this in the dashboard, I created 5 visuals:  
+
+-Sum of Profit  
+
+-Sales and COGS  
+
+-Sales by Segment and Country  
+
+-Sale Price by Country and Product  
+
+-Sales and PPUS by Product  
+
 
 Which are all filterable by Country or by Segment.
